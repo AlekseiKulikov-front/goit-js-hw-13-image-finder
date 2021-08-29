@@ -6,4 +6,5 @@ export default {
   searchForm,
   gallery,
   loadMoreBtn,
+  
 };
